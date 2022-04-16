@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#Here we env/ folder so that while creating environent for CNN Classifier then extra changes will not reflect
+env/
