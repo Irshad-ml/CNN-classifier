@@ -1,0 +1,3 @@
+#config.yaml file is used for the configuration
+#We create src folder and it should empty so inside src folder we create empty .gitkeep file which allow to define the 
+#folder structure
